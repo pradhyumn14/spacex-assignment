@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spacex-assignment/static/css/main.e141296e.chunk.css",
+    "main.js": "/spacex-assignment/static/js/main.d4768a2b.chunk.js",
+    "main.js.map": "/spacex-assignment/static/js/main.d4768a2b.chunk.js.map",
+    "runtime-main.js": "/spacex-assignment/static/js/runtime-main.64c4f37c.js",
+    "runtime-main.js.map": "/spacex-assignment/static/js/runtime-main.64c4f37c.js.map",
+    "static/css/2.b8d16a07.chunk.css": "/spacex-assignment/static/css/2.b8d16a07.chunk.css",
+    "static/js/2.6cdbf0dc.chunk.js": "/spacex-assignment/static/js/2.6cdbf0dc.chunk.js",
+    "static/js/2.6cdbf0dc.chunk.js.map": "/spacex-assignment/static/js/2.6cdbf0dc.chunk.js.map",
+    "index.html": "/spacex-assignment/index.html",
+    "precache-manifest.af14a87685e71ad0f490c66cd2d13466.js": "/spacex-assignment/precache-manifest.af14a87685e71ad0f490c66cd2d13466.js",
+    "service-worker.js": "/spacex-assignment/service-worker.js",
+    "static/css/2.b8d16a07.chunk.css.map": "/spacex-assignment/static/css/2.b8d16a07.chunk.css.map",
+    "static/css/main.e141296e.chunk.css.map": "/spacex-assignment/static/css/main.e141296e.chunk.css.map",
+    "static/js/2.6cdbf0dc.chunk.js.LICENSE.txt": "/spacex-assignment/static/js/2.6cdbf0dc.chunk.js.LICENSE.txt",
+    "static/media/loadRocket.gif": "/spacex-assignment/static/media/loadRocket.c537d7d1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c4f37c.js",
+    "static/css/2.b8d16a07.chunk.css",
+    "static/js/2.6cdbf0dc.chunk.js",
+    "static/css/main.e141296e.chunk.css",
+    "static/js/main.d4768a2b.chunk.js"
+  ]
+}
