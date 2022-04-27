@@ -74,6 +74,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 ![WhatsApp Image 2022-04-27 at 12 12 07 PM (3)](https://user-images.githubusercontent.com/81412288/165457435-81c912de-adbf-4011-bbf6-2e5580e58724.jpeg)
 
-### `In the above Screen Shot, you can see the 2017 launch year details which successfully launch [truw] fetched from API`
+### `In the above Screen Shot, you can see the 2017 launch year details which successfully launch [true] fetched from API`
 
 ### Developed by: [Pradhyumn Gupta](https://github.com/pradhyumn14)
