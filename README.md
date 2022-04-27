@@ -35,47 +35,43 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Screen Shots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <img width="1440" alt="Screenshot 2022-04-27 at 11 06 13 AM" src="https://user-images.githubusercontent.com/81412288/165457069-704cecb1-8949-453a-822f-b306b257033f.png">
+
+### `In the above Screen Shot you can see the Spacex launch details fetched from API`
+
 <img width="1440" alt="Screenshot 2022-04-27 at 11 06 22 AM" src="https://user-images.githubusercontent.com/81412288/165457082-97f11c93-fdd7-45d0-8885-2957ffddcbc1.png">
+
+### `In the above Screen Shot you can see the 2010 launch year details fetched from API`
+
 <img width="1440" alt="Screenshot 2022-04-27 at 11 06 32 AM" src="https://user-images.githubusercontent.com/81412288/165457110-c2068005-ecad-4f2f-8731-753ecf05039e.png">
+
+### `In the above Screen Shot you can see the 2013 launch year details which successfully launch [true] fetched from API`
+
 <img width="1440" alt="Screenshot 2022-04-27 at 11 06 41 AM" src="https://user-images.githubusercontent.com/81412288/165457118-400b3bde-a757-4c3e-bd86-a58a364f9c04.png">
+
+### `In the above Screen Shot you can see the 2015 launch year details which successfully launch [false] fetched from API`
+
 <img width="1440" alt="Screenshot 2022-04-27 at 11 08 16 AM" src="https://user-images.githubusercontent.com/81412288/165457121-8f0e6e1b-822c-459c-a7eb-b3a01ff06620.png">
 
-![WhatsApp Image 2022-04-27 at 12 12 07 PM (1)](https://user-images.githubusercontent.com/81412288/165457426-31149051-0524-4aa9-ba97-f62f3afbc881.jpeg)
-![WhatsApp Image 2022-04-27 at 12 12 07 PM (2)](https://user-images.githubusercontent.com/81412288/165457433-2e52c382-9304-4e8d-8749-812cdd4aff85.jpeg)
-![WhatsApp Image 2022-04-27 at 12 12 07 PM (3)](https://user-images.githubusercontent.com/81412288/165457435-81c912de-adbf-4011-bbf6-2e5580e58724.jpeg)
+### `In the above Screen Shot you can see the 2020 launch year details which successfully launch fetched from API`
+
+### Mobile Screen Shots
+
 ![WhatsApp Image 2022-04-27 at 12 12 07 PM](https://user-images.githubusercontent.com/81412288/165457438-971973ec-725d-496a-96cf-603a06ebe1ac.jpeg)
+
+### `In the above Screen Shot you can see the launch year details fetched from API`
+
+![WhatsApp Image 2022-04-27 at 12 12 07 PM (1)](https://user-images.githubusercontent.com/81412288/165457426-31149051-0524-4aa9-ba97-f62f3afbc881.jpeg)
+
+### `In the above Screen Shot you can see the 2006 launch year details which successfully launch [false] fetched from API`
+
+![WhatsApp Image 2022-04-27 at 12 12 07 PM (2)](https://user-images.githubusercontent.com/81412288/165457433-2e52c382-9304-4e8d-8749-812cdd4aff85.jpeg)
+
+### `In the above Screen Shot you can see the 2017 launch year details which successfully launch [true] fetched from API`
+
+![WhatsApp Image 2022-04-27 at 12 12 07 PM (3)](https://user-images.githubusercontent.com/81412288/165457435-81c912de-adbf-4011-bbf6-2e5580e58724.jpeg)
+
+### `In the above Screen Shot you can see the 2017 launch year details which successfully launch [truw] fetched from API`
