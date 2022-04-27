@@ -47,7 +47,6 @@ class App extends Component {
   }
 
   updateApiFilters(type, value) {
-    // if same value is clicked, we remove that filter
     if (this.state.filters[type] === value) {
       value = undefined;
     }
